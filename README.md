@@ -1,7 +1,9 @@
-![image](https://github.com/user-attachments/assets/89fbe7f5-3d80-4e79-90dc-a02e2af49a5c)# 🧪 Material Recognition AI
+# 🧪 Material Recognition AI
 
 A professional desktop application for material recognition using deep learning and an integrated AI chatbot (Google Gemini).
+
 # Running
+![image](https://github.com/user-attachments/assets/89fbe7f5-3d80-4e79-90dc-a02e2af49a5c)
 ![image](https://github.com/user-attachments/assets/876addad-7bf3-4536-bc35-3dffe555b048)
 ![image](https://github.com/user-attachments/assets/fd790a15-7e31-4a3c-844c-d7265cae1285)
 ![image](https://github.com/user-attachments/assets/d18d967e-f6b5-405d-bf71-d56f552292d5)
@@ -18,6 +20,12 @@ A professional desktop application for material recognition using deep learning 
 ![image](https://github.com/user-attachments/assets/00011ea9-0b92-4008-9cc2-9cfb9087ff8f)
 ![image](https://github.com/user-attachments/assets/8dd68577-8b7e-4774-a4c4-b4fb0511fa1b)
 ![image](https://github.com/user-attachments/assets/419c9396-0187-4c9c-963a-7ccf1ad9a609)
+
+---
+
+## 🎥 Demo Video
+### --->CLICK TO WATCH IT!
+ [YouTube - Demo](https://youtu.be/_JG-4NI8ZVI)
 
 ## ✨ Features
 - 🏷️ **Material Recognition**: Classifies images or webcam frames as different material types (e.g., metal, plastic) using a trained MobileNetV2 model (TensorFlow/Keras).
